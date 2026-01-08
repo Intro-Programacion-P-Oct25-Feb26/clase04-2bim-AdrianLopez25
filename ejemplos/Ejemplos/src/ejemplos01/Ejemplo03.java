@@ -17,7 +17,7 @@ public class Ejemplo03 {
                                          // obtenerSuma
         System.out.printf("El valor de la suma es: %d\n", valor);
         
-        System.out.printf(suma);
+        //System.out.printf(suma);
         //Aqui se genera un error ya que no esta declarada la palabra 
         //suma dentro del main
         
